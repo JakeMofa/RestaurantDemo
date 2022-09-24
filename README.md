@@ -1,10 +1,14 @@
 # RestaurantDemo
 This is a Restaurant Template which anybody can use, this is to demonstrate the skills and assebility to a simple webiste template which can be made to be sophisticated.
 This is/ was a project upon taken to build a full fledge website, these are the first samples of the wire frame of how it is, future wise the templates are going to be diffrent
+
+https://jakemofa.github.io/RestaurantDemo/
 .
 This is built with JS,CSS and HTML
 
 # Explanation
+
+
 
 
 It has the option of either being mute or
